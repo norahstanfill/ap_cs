@@ -11,6 +11,7 @@ void print_0_10()
     }
 }
 
+
 void print_2_20(){
 
     for(int i=2; i<=20; i++)
@@ -31,4 +32,3 @@ print_0_10();
 print_2_20();
 print_4_40();
 
-}
